@@ -1,0 +1,8 @@
+name: metastrophesis
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The lasting changed state of a beholder after the encounter, when someone has been turned at the root and now stands and sees along a new axis that does not go back.
+dependsOn: [youspeak, me, doxalgia, orthophanes]
